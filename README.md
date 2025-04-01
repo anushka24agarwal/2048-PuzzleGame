@@ -44,3 +44,9 @@ This project implements a two-player version of the 2048 game using the Expectim
 
 - No available moves left (grid is full with no possible merges).
 - Player reaches the 2048 tile (if considered a win condition).
+
+## Installation
+
+Make sure you have python3 installed then run:
+```bash
+python3 GameManager.py
